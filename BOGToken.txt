@@ -1,0 +1,21 @@
+Image: https://raw.githubusercontent.com/BOG-Game/Token/main/BOGToken-icon.png
+
+Project Name: Battle of Gods
+
+* Main Category: General
+
+* Sub Category: Game
+
+Description: Battle of Gods Token
+
+Homepage URL: https://battleofgods.io
+Twitter URL: https://twitter.com/BattleofGods_io
+
+Token Info
+* Symbol: BOGT
+
+* Decimals: 4
+
+* Supply: 1.000.000.000
+
+* Token Authority: Select Wallet  -> Temos que ver qual a wallet que tenho que usar...
